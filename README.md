@@ -7,13 +7,24 @@
 - Query data using natural language
 - Works fully offline!
 
+## 🧩 Tech Stack
+
+| Component | Technology Used |
+|------------|-----------------|
+| Frontend | Streamlit |
+| Backend | Python |
+| AI Engine | LangChain + Ollama |
+| Data Handling | Pandas |
+| Auth Storage | JSON-based (admins.json) |
+
+
 ## Setup
 ```bash
 python -m venv venv
 .\venv\Scripts\Activate.ps1
 pip install -r requirements.txt
 ```
-
+Install Ollama
 Start Ollama:
 ```bash
 ollama serve
