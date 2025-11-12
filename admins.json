@@ -1,0 +1,20 @@
+[
+  {
+    "username": "admin1",
+    "password": "pass123",
+    "grade": "8",
+    "class": "A"
+  },
+  {
+    "username": "admin2",
+    "password": "secure456",
+    "grade": "9",
+    "class": "B"
+  },
+  {
+    "username": "principal",
+    "password": "principal789",
+    "grade": "",
+    "class": ""
+  }
+]

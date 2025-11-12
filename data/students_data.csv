@@ -1,0 +1,9 @@
+student_name,grade,class,submission_status,quiz_score,date,quiz_date,region,teacher
+Aarav Gupta,8,A,Submitted,85,2025-11-05,2025-11-02,North,Mr. Verma
+Riya Sharma,8,A,Not Submitted,0,2025-11-05,2025-11-02,North,Ms. Rao
+Kabir Nair,8,B,Submitted,90,2025-11-06,2025-11-02,South,Mr. Kumar
+Diya Mehta,9,A,Submitted,88,2025-11-04,2025-11-01,South,Ms. Das
+Aanya Singh,9,A,Not Submitted,0,2025-11-06,2025-11-08,West,Mr. Singh
+Ishan Verma,8,B,Submitted,92,2025-11-03,2025-11-02,North,Ms. Patel
+Meera Patel,9,B,Not Submitted,0,2025-11-07,2025-11-07,East,Mr. Nair
+Tanya Rao,9,A,Submitted,87,2025-11-03,2025-11-02,West,Ms. Mehta
