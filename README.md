@@ -3,6 +3,8 @@
 ## Features
 - Admin login with role-based data filtering
 - 3 types of users each with unique privileges
+    Principal: Has full access to all student records and AI querying across every region.
+    Teacher(admin1& admin2): Can view and query only the students assigned to their class, grade, or region.
 - Dynamic data loading (all CSVs in `data/`)
 - Local LLM integration (Ollama + LangChain)
 - Query data using natural language
