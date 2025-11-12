@@ -2,6 +2,7 @@
 
 ## Features
 - Admin login with role-based data filtering
+- 3 types of users each with unique privileges
 - Dynamic data loading (all CSVs in `data/`)
 - Local LLM integration (Ollama + LangChain)
 - Query data using natural language
